@@ -33,7 +33,7 @@ We'll also show how to import the custom models into a Maximo instance. Maximo i
 ### Python
 ```
 # OS X
-brew install python python-pip
+brew install python
 
 # Linux
 apt-get install python python-pip
